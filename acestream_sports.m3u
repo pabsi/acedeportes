@@ -162,8 +162,3 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="BT Sport 4" tvg-name="BT Sport 4" tvg-logo="https://descubre.movistar.co/informe-de-gestion-responsable-2019/images/favicon.png" group-title="BT Sports", BT Sport 4
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-# OTROS
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png" group-title="Otros", Tennis Channel
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
-#EXTINF:-1 tvg-id="beIN SPORTS ñ" tvg-name="beIN SPORTS ñ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png" group-title="Otros", beIN SPORTS ñ
-acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
